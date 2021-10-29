@@ -34,7 +34,7 @@ a[href] {
     background-color: cadetblue;
 }
 
-a[img] {
+img {
     max-width: 100%;
     height: auto
 }
