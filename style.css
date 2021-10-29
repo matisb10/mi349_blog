@@ -1,0 +1,35 @@
+html{
+    background: #e3e3e3;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color: black;
+    border-top: 10px solid black;
+    background: #fff;
+}
+h1{
+    font-size: 3em;
+    margin: 0;
+}
+h2{
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    line-height: 1.4em;
+}
+
+#blog {
+    border-top: 1px dotted #ccc;
+}
+
+.blog-post {
+    border-bottom: 1px dotted #ccc;
+}
+
+a[href] {
+    background-color: cadetblue;
+}
