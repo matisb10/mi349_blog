@@ -42,3 +42,9 @@ img {
 footer {
     font-family: cursive;
 }
+
+.sticky{
+    background:blanchedalmond;
+    position: sticky;
+    top:0;
+}
