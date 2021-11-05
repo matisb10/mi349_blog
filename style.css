@@ -68,9 +68,13 @@ footer {
 }
 
 aside{
-    flex:2;
+    flex:1;
+    margin: 20px;
+    padding: 10px
 }
 
 div{
-    flex:2;
+    flex:1;
+    margin: 20px;
+    padding: 20px;
 }
