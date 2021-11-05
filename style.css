@@ -50,8 +50,8 @@ footer {
 }
 
 .img-container{
-    height:auto;
-    width: auto;
+    height: 100px;;
+    width: 100px;
     float:right;
     margin: 10px;
 }
