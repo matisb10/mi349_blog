@@ -43,6 +43,10 @@ footer {
     font-family: cursive;
 }
 
+.pic{
+    margin-top: 50px;
+}
+
 .sticky{
     background:blanchedalmond;
     position: sticky;
