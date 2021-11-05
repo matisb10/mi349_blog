@@ -48,3 +48,10 @@ footer {
     position: sticky;
     top:0;
 }
+
+.img-container{
+    height:auto;
+    width: auto;
+    float:right;
+    margin: 10px;
+}
