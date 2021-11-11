@@ -80,7 +80,7 @@ div{
 }
 
 @media (max-width: 400px) {
-    {
-        background-color: #ccc;
+    body {
+        background-color: rgb(248, 245, 245);
     }
 }
