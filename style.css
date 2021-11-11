@@ -78,3 +78,9 @@ div{
     margin: 20px;
     padding: 20pxk;
 }
+
+@media (max-width: 400px) {
+    {
+        background-color: #ccc;
+    }
+}
